@@ -1,2 +1,2 @@
-# projectsolace
-landing page
+# projectsolace v.2
+landing page v.2
